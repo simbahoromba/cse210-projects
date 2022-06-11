@@ -55,9 +55,6 @@ if __name__ == "__main__":
     main()
 
 
-
-#How did I use version control to develop the program?
-
 #I created the repository using an existing file in my computer and named  it 
-# cse210-01 as directed by the assignment. I did use the Git command commit to upadte my program 
+# cse210-projects as directed by the assignment. I did use the Git command commit to upadte my program 
 # so that it can be accessable by my team and my instructor. #
