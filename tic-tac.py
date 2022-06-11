@@ -2,13 +2,13 @@
 
 def main():
     player = next_player("")
-    board = create_board("")
+    board = create_board()
     while not (has_winner(board) or is_a_draw(board)):
         display_board(board)
         make_move(player, board)
         player = next_player(player)
     display_board(board)
-    print("Well played. Play Again...") 
+    print("Well played. Lets Play Again...") 
 
 def create_board():
     board = []
